@@ -1,0 +1,3 @@
+2023-11-10 15:49:42.752 | INFO     | __main__:robot:35 - sign /Sw3LtmUvuB6AEzfHJtTP1ykcVmHN3WGWRdvxJoVo0c=
+2023-11-10 15:49:42.754 | INFO     | __main__:robot:36 - http_sign /Sw3LtmUvuB6AEzfHJtTP1ykcVmHN3WGWRdvxJoVo0c=
+2023-11-10 15:49:46.311 | INFO     | utils.chatgpt:openai_chat_http_api:79 - 我是OpenAI的GPT-3模型，一个基于人工智能的语言模型。我被训练为能够理解和生成人类语言，并尽可能准确地回答用户的问题。
